@@ -1,7 +1,7 @@
 - 👋🏾 Hi, I’m **@Brwnie-28** and Welcome to my Github!
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-  # 🧑🏾‍💻 These are My Current Interests:
-  -I’m interested in Game Development, Animating and Creating Stories.
+# 🧑🏾‍💻 These are My Current Interests:
+- I’m interested in Game Development, Animating and Creating Stories.
 # 🌱 What languages am I currently learning:
 - I’m currently learning **C++/C#**
 # 💞️ A plan I hope to fulfil:
