@@ -1,8 +1,13 @@
-- 👋🏾 Hi, I’m **@Brwnie-28.**
-- 🧑🏾‍💻 I’m interested in Game Development, Animation and Creating Stories.
-- 🌱 I’m currently learning **C++/C#**
-- 💞️ I’m looking to collaborate on any Future Developed Games.
-- 📫 You can reach me through any linked platforms on my profile description.
+- 👋🏾 Hi, I’m **@Brwnie-28** and Welcome to my Github!
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+  # 🧑🏾‍💻 These are My Current Interests:
+  -I’m interested in Game Development, Animating and Creating Stories.
+# 🌱 What languages am I currently learning:
+- I’m currently learning **C++/C#**
+# 💞️ A plan I hope to fulfil:
+- I’m looking to collaborate on any Future Developed Games.
+# 📫 How to Get In Touch With Me:
+- You can reach me through any linked platforms on my profile description or through my email mailto:itsmaina5@gmail.com.
 
 <!---
 Brwnie-28/Brwnie-28 is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
