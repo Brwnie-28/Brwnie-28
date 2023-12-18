@@ -4,7 +4,7 @@ ________________________________________________________________________________
 - I’m interested in Game Development, Animating, Creating and Developing Stories.
 # 🌱 What languages am I currently learning:
 - I’m currently learning **C++/C#**.
-# 💞️ A plan I hope to fulfil:
+# 🗒️ A plan I hope to fulfil:
 - I’m looking to collaborate on any Future Developed Games.
 # 📫 How to Get In Touch With Me:
 - You can reach me through any linked platforms on my profile description or email: mailto:itsmaina5@gmail.com.
