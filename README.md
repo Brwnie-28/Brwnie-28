@@ -7,7 +7,7 @@ ________________________________________________________________________________
 # 💞️ A plan I hope to fulfil:
 - I’m looking to collaborate on any Future Developed Games.
 # 📫 How to Get In Touch With Me:
-- You can reach me through any linked platforms on my profile description or email mailto:itsmaina5@gmail.com.
+- You can reach me through any linked platforms on my profile description or email: mailto:itsmaina5@gmail.com.
 
 <!---
 Brwnie-28/Brwnie-28 is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
